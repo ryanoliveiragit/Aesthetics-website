@@ -4,6 +4,7 @@ export const Icons = styled.div`
   border-top-left-radius: 25px;
   border-bottom-left-radius: 25px;
   padding: 0.6%;
+  top: 0;
   left: 93.3%;
   display: flex;
   position: absolute;

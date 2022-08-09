@@ -8,8 +8,7 @@ export const BackgroundHome = styled.div`
   background-size: cover;
   position: absolute;
   width: 100%;
-  height:42vw;  /* responsive height */
-  display: flex;
+  height:41.6vw;  /* responsive height */
   justify-content: center;
 
   .parent {
@@ -20,9 +19,8 @@ export const BackgroundHome = styled.div`
     text-align: left;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: repeat(2, 1fr);
 }
-button>svg {
-  margin-left: 10px;
+  button>svg {
+    margin-left: 10px;
 }
 `

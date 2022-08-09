@@ -9,7 +9,7 @@ const Rotas = () => {
     <GlobalStyle/>
     <BrowserRouter>
         <Routes>
-            <Route exact path="/" element={<Home />} />
+            <Route exact path="/home" element={<Home />} />
         </Routes>    
     </BrowserRouter>
     </div>

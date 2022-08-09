@@ -5,5 +5,5 @@ export const Box = styled.div`
   display: flex;
   align-items: center;
   margin-top: 15%;
-  font-size: 1.2em;
+  font-size: 1em;
 `

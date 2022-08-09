@@ -4,7 +4,7 @@ import { IoIosArrowRoundDown } from 'react-icons/io'
 
 const LearnMore = () => {
   return (
-    <Box><IoIosArrowRoundDown size={'10%'}/> LearnMore</Box>
+    <Box><IoIosArrowRoundDown size={'5%'}/>LearnMore</Box>
   )
 }
 

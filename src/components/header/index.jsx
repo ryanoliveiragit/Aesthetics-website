@@ -11,11 +11,10 @@ const Header = () => {
           <nav>
           <h1 className='name'>Julia.</h1>
             <ul>
-              <li>Home</li>
-              <li>Make-Up</li>
-              <li>Skincare</li>
-              <li>Contact</li>
-              <li>Supplements</li>
+              <li>Inicio</li>
+              <li>Serviços</li>
+              <li>Produtos</li>
+              <li>Contato</li>
             </ul>
           </nav>
         </header>

@@ -18,7 +18,7 @@ export const Container = styled.div`
         list-style: none;
     }
     .name {
-        font-size: 1.1vw;
+        font-size: 1.2vw;
         font-weight: 900;
     }
 `

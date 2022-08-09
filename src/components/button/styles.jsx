@@ -1,15 +1,21 @@
 import styled from "styled-components";
 
-export const Button = styled.button`
+export const ButtonStyle = styled.button`
     justify-content: center;
+    margin-top: 8%;
     display: flex;
     align-items: center;
-    margin-top: 10%;
     width: 20%;
-    padding: 1.5%;
-    font-size: 0.8vw;
+    padding: 1.3%;
+    font-size: 1rem;
     border: none;
     background-color: var(--button);
-    border-radius: 4px;
+    border-radius: 3px;
     color: white;
+    &.browns {
+        margin-top: 2%!important;
+        font-size: 0.9rem;
+        font-weight: 400;
+        color: white;
+    }
 `

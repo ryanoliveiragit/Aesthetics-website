@@ -6,6 +6,9 @@ export default createGlobalStyle`
     padding: 0;
     box-sizing: border-box;
 }
+.carousel-item {
+    transition: 0.4s!important;
+}
 
 body {
     font: 400 14px Poppins, sans-serif;
@@ -14,9 +17,9 @@ body {
     --background: #FEDFCE;
     --button: #F4685B;
     --orange: #F4685B;
-    --buttonhover: #131041;
-    --textParagraph: #131041;
-    --textPrimary: #131041;
-    --paragraph: #ffffff;
+    --buttonhover: #10081D;
+    --textParagraph: #10081D;
+    --textPrimary: #10081D;
+    --paragraph: #10081D;
 }
 `
