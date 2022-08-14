@@ -12,7 +12,6 @@ export const BackgroundBanner = styled.section`
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  position: absolute;
   .photo>img {
     width: 50%;
   }

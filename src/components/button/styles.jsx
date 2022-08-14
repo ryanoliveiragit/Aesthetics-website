@@ -13,9 +13,17 @@ export const ButtonStyle = styled.button`
     border-radius: 3px;
     color: white;
     &.browns {
+        padding: 0%;
+        align-items: left;
+        justify-content: left;
         margin-top: 2%!important;
         font-size: 0.9rem;
         font-weight: 400;
-        color: white;
+        color: var(--text);
+        background-color: var(--transparent)!important;
+    }
+    &.buttonStyleOrange {
+        background-color: var(--orange);
+        color: var(--paragraph);
     }
 `

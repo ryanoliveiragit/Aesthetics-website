@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const BackgroundSection = styled.section`
-  background-color: white;
+  background-color: azure;
   height: 100%;
   align-items: columns;
   display: flex;
@@ -11,7 +11,6 @@ export const BackgroundSection = styled.section`
   .direction>img {
     padding: 1%;
     width: 50%;
-    border-radius: 25px;
   }
   .parentSection {
     width: 100%;

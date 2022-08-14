@@ -15,7 +15,7 @@ const Banner = ({img, text, cText, content, title, pSubtitle}) => {
                         <TextSection>{text}</TextSection>
                         <TextSection>{cText}</TextSection>
                         <p>{content}</p>
-                        <Button Style={'browns'}>Acesse já</Button>
+                        <Button Style={'buttonStyleOrange'}>Acesse já</Button>
                     </div>
                 <img src={img} alt='modelo'></img>
                 </div>

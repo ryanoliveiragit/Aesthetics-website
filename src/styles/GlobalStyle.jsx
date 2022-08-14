@@ -21,5 +21,7 @@ body {
     --textParagraph: #10081D;
     --textPrimary: #10081D;
     --paragraph: #10081D;
+    --transparent: #0000000;
+    --subTitle: #929292;
 }
 `

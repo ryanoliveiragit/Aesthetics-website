@@ -14,6 +14,7 @@ import Button from '../components/button'
 import Eletrolipolise from '../assets/eletrolipolise.jpg'
 import Microagulhamento from '../assets/microagulhamento.png'
 import SectionRight from '../components/section/indexRight'
+import Works from '../components/works/works'
 
 function Home() {
   return (
@@ -57,7 +58,7 @@ function Home() {
           subtitle='About'
           content= 'we know eacg skin type is unique,thats why we have a diferent approach yoy tell us about your skin and we will formulate the best custom regimen for your specific needs'
         />
-
+<Works></Works>
         </BackgroundHome>
     </div>
   )
